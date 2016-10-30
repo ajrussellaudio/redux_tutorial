@@ -20,7 +20,7 @@
   },
   "babel": {
     "presets": [
-      "es-2015"
+      "es2015"
     ]
   },
   "dependencies": {
